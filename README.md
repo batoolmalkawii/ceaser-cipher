@@ -12,7 +12,9 @@ In this project, we worked on a well-know cryptographic class - the Caesar Ciphe
 * `is_english`: Returns the number of english words in a sentence.
 
 ### User Acceptance Tests:
+
 Test cases:
+
     1. encrypt a string with a given shift
     2. decrypt a previously encrypted string with the same shift
     3. encryption should handle upper and lower case letters
